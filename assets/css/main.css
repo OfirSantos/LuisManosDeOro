@@ -1,0 +1,28 @@
+.header__name {
+  font-size: 48px;
+  text-align: center;
+  border: 2px solid red;
+  padding: 10px;
+}
+
+.section-plate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ccc;
+  margin-bottom: 20px;
+}
+
+.section-socials {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  background-color: #ccc;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  background-color: #24d800;
+}/*# sourceMappingURL=main.css.map */
